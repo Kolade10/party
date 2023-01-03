@@ -1,8 +1,5 @@
 body{
-    background-image: url(mgspic.jpeg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
+     background-image: linear-gradient( black, rgb(9, 18, 43));
     font-family: tahoma;
   }
   h1{
