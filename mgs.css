@@ -62,7 +62,7 @@ body{
     100%{transform: rotateX(360deg)}
   }
   .payment-details{
-    background: rgba(190, 157, 157, 0.9);
+    background: rgba(190, 157, 157, 0.1);
     color: white;
     margin:auto;
     width: 450px;
